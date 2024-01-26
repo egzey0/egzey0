@@ -1,19 +1,19 @@
-## Hey there! 👋 I'm Krystian.
+## hey there! 👋 i'm krystian.
 
-I'm currently diving deep into the world of web development, focusing on mastering Next.js and Tailwind CSS.
-I'm passionate about creating innovative projects for the digital industries, where I can apply my growing skills to real-world challenges.
+currently diving into the world of web development, focusing on mastering next.js and tailwind css. 
+passionate about creating innovative projects for digital industries, where i can apply my growing skills to real-world challenges.
 
 ## I'm up to
 
-🌐 Learning the ins and outs of Next.js
+🌐 learning the ins and outs of next.js
 
-💨 Exploring the versatility of Tailwind CSS
+💨 exploring the versatility of tailwind css
 
-🚀 Developing projects tailored for digital solutions
+🚀 developing projects tailored for digital solutions
 
 
-## 🌱 Still growing
-As a learner, I'm always open to feedback and collaboration. Feel free to check out my repositories and connect with me on exciting, impactful projects!
+## still growing
+as a learner, i'm always open to feedback and collaboration. feel free to check out my repositories and connect with me on exciting, impactful projects!
 
 <!---
 egzey0/egzey0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
